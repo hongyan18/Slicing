@@ -1,0 +1,57 @@
+.head{
+    background-color:#EEEEEE;
+    height: 40px;
+    width: 100%;
+}
+.head_in{
+    margin: 0 auto;
+    width: 1000px;
+}
+.head_l p{
+    color:#7D7D7D;
+    line-height: 40px;
+    font-size: 12px;
+}
+.head_r p{
+    color: #7D7D7D;
+    line-height: 40px;
+    font-size: 12px;
+}
+.head_r p span{
+    color: red;
+}
+.head_r  s{
+   
+    display: inline-block;
+    background: url(../image/sprite.png) 0px 0;
+    width: 16px;
+    height: 16px;
+    line-height: 40px;
+}
+.logo{
+    height: 120px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.logo_l_left{
+    width: 117px;
+    height: 113px;
+    margin-top: 7px;
+}
+.logo .logo_l_left s{
+    display: inline-block;
+    background: url(../image/sprite.png) -25px 0;
+    height: 99px;
+    width: 76px;
+}
+.logo_l_right{
+    height: 35px;
+    width: 177px;
+    margin-top: 66px;
+}
+.logo_l_right s{
+    height: 35px;
+    width: 177px;
+    display: inline-block;
+    background: url(../image/sprite.png) -110px 0;
+}
